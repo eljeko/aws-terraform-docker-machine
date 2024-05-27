@@ -1,0 +1,10 @@
+region = "xx-region-1"
+
+dockerhost-key-name = "dockerhost-key"
+
+owner_email = "thelion@landofoz.xyz"
+owner_name = "The Lion"
+cflt_managed_id = "theliong"
+cflt_service = "EMEA"
+
+dockerhost-instance-type = "t3.micro"
